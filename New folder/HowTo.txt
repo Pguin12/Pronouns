@@ -1,0 +1,3 @@
+To make it work type
+pronouns("A","B","C","D")
+replace the letter with the pronoun BUT keep the quotations to make the program work. Will add a better way to implement this later
